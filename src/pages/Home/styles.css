@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.container-pesquisa {
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.botao {
+    height: 50px;
+}
+
+.container-repositorios {
+    width: 50%;
+    display: inline-flex;
+    justify-content: center;
+}
